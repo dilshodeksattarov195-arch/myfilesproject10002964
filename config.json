@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userrecrypt",
+        "uuid": 20454564,
+        "checksum": "mkoxmr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
